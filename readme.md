@@ -1,4 +1,4 @@
-#Config
+# Config
 
 * The cfg created by the game is stored in C:\Program Files (x86)\Steam\userdata\240933258\730\local\cfg
 
